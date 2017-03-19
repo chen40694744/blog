@@ -1,0 +1,8 @@
+下载后引入blog.sql
+然后修改blog数据库里user表的user_name为：admin，
+user_pass为：
+eyJpdiI6Ing5T3pSMXdseHBDK2dLbW0xTzJSVXc9PSIsInZhbHVlIjoiMU80VnpuN3MrQTBDaU9rMVhSXC9KbEE9PSIsIm1hYyI6ImJlNjBhNDViYThmZTI0OGQ2ZmUzMzUxZDBjN2ZjYmE2NTM3MzRkYzY3YmU5ZDFiYzhjZDRkYTIxOTZjODZhNWUifQ==
+（123456）
+或自行定义用户名和密码保存到数据库
+后台登陆界面url：
+域名/admin/login
